@@ -1,0 +1,2 @@
+# 7b88c77d87dffb4909fff4bc73dd00b4
+App id F0F3F-FA7D2-991E7-10C4B-B363D, version name - MSTALKER
